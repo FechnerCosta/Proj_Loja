@@ -1,0 +1,17 @@
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\BLL.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\BLL.pdb
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\DAL.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\Modelos.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\DAL.pdb
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\Modelos.pdb
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\obj\Debug\BLL.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\obj\Debug\BLL.pdb
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\BLL.dll.config
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\DotNetOpenAuth.Core.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\System.Net.Http.Extensions.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\System.Net.Http.Primitives.dll
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\DotNetOpenAuth.Core.xml
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\System.Net.Http.Extensions.xml
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\bin\Debug\System.Net.Http.Primitives.xml
+C:\visualstudio online\ProjetoLoja\loja\BLL\BLL\obj\Debug\BLL.csproj.App.config

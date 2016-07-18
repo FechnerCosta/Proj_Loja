@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{55002761-2381-49B7-A280-7A7D3B7B50B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{82DA175D-9FA1-46F1-AC9F-4B0369368619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL\BLL.csproj", "{4B81C8DE-7E0F-4CE6-83F4-4AA00EA583E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIWindows", "..\UIWindows\UIWindows\UIWindows.csproj", "{4F32E590-467D-479A-A8DA-7E661D6500EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55002761-2381-49B7-A280-7A7D3B7B50B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55002761-2381-49B7-A280-7A7D3B7B50B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55002761-2381-49B7-A280-7A7D3B7B50B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55002761-2381-49B7-A280-7A7D3B7B50B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DA175D-9FA1-46F1-AC9F-4B0369368619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DA175D-9FA1-46F1-AC9F-4B0369368619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DA175D-9FA1-46F1-AC9F-4B0369368619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DA175D-9FA1-46F1-AC9F-4B0369368619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B81C8DE-7E0F-4CE6-83F4-4AA00EA583E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81C8DE-7E0F-4CE6-83F4-4AA00EA583E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B81C8DE-7E0F-4CE6-83F4-4AA00EA583E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B81C8DE-7E0F-4CE6-83F4-4AA00EA583E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F32E590-467D-479A-A8DA-7E661D6500EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F32E590-467D-479A-A8DA-7E661D6500EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F32E590-467D-479A-A8DA-7E661D6500EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F32E590-467D-479A-A8DA-7E661D6500EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fechnercosta.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Modelos\\Modelos.csproj
+		SccProjectName1 = Modelos
+		SccLocalPath1 = Modelos
+		SccProjectUniqueName2 = DAL\\DAL.csproj
+		SccProjectName2 = DAL
+		SccLocalPath2 = DAL
+		SccProjectUniqueName3 = ..\\BLL\\BLL\\BLL.csproj
+		SccProjectName3 = ../BLL/BLL
+		SccLocalPath3 = ..\\BLL\\BLL
+		SccProjectUniqueName4 = ..\\UIWindows\\UIWindows\\UIWindows.csproj
+		SccProjectName4 = ../UIWindows/UIWindows
+		SccLocalPath4 = ..\\UIWindows\\UIWindows
+	EndGlobalSection
+EndGlobal

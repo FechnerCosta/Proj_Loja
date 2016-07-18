@@ -1,0 +1,22 @@
+C:\loja\Modelos\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\loja\Modelos\DAL\bin\Debug\DAL.dll
+C:\loja\Modelos\DAL\bin\Debug\DAL.pdb
+C:\loja\Modelos\DAL\bin\Debug\Modelos.dll
+C:\loja\Modelos\DAL\bin\Debug\Modelos.pdb
+C:\loja\Modelos\DAL\obj\Debug\DAL.dll
+C:\loja\Modelos\DAL\obj\Debug\DAL.pdb
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\DAL.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\DAL.pdb
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\Modelos.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\Modelos.pdb
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\obj\Debug\DAL.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\obj\Debug\DAL.pdb
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\DAL.dll.config
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\DotNetOpenAuth.Core.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\DotNetOpenAuth.Core.xml
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\System.Net.Http.Extensions.xml
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\bin\Debug\System.Net.Http.Primitives.xml
+C:\visualstudio online\ProjetoLoja\loja\Modelos\DAL\obj\Debug\DAL.csproj.App.config
